@@ -109,6 +109,7 @@
 ||magisksu.com^$doc
 ||magisksu.ru^$doc
 ||magiskcn.com^$doc
+||gparted.*^$doc,to=~gparted.org
 ! scams, phishing
 ! https://phishtank.org/phish_search.php
 ||amini.za.com^$doc
