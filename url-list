@@ -52,18 +52,7 @@
 ||vegamovies.ist^$doc
 ||watchsomuch.to^$doc
 ||yts.mx^$doc
-||z-lib.io^$doc
-||z-lib.id^$doc
 ||zlibrary.to^$doc
-||z-lib.yt^$doc
-||z-lib.lol^$doc
-||zlibrary-global.com^$doc
-||zlib-official.com^$doc
-||zlibrary.lol^$doc
-||z-library.live^$doc
-||z-library.blog^$doc
-||z-library-proxy.com^$doc
-||go-to-zlibrary.com^$doc
 ||1377x.to^$doc
 ||kickasstorrents.to^$doc
 ||rargb.to^$doc
@@ -104,7 +93,22 @@
 ||revancedallinone.in^$doc,to=~revanced.app
 ||static-revanced-net.pages.dev^$doc,to=~revanced.app
 ||jdownloader.*^$doc,to=~jdownloader.org
-||steamcommunity.*^$doc,to=~steamcommunity.com
+||utorrent.*^$doc,to=~utorrent.com
+||magisk.*^$doc
+||magiskmanager.*^$doc
+||magisk-manager.*^$doc
+||magiskzip.*^$doc
+||magisk-zip.*^$doc
+||magiskapk.*^$doc
+||magiskmodule.*^$doc
+||magisks.com^$doc
+||themagisk.com^$doc
+||magiskupdate.com^$doc
+||magiskroot.net^$doc
+||magiskroots.com^$doc
+||magisksu.com^$doc
+||magisksu.ru^$doc
+||magiskcn.com^$doc
 ! scams, phishing
 ! https://phishtank.org/phish_search.php
 ||amini.za.com^$doc
